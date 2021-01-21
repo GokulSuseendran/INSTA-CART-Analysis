@@ -1,6 +1,7 @@
 # INSTA-CART-Analysis
 PROBLEM STATEMENT:
   Project pertaining to Market Basket Analysis for an online grocery delivery application using Apriori algorithm and association rules for 80 million transactions using R software.
+
 DATA DESCRIPTION: 
   Dataset obtained from Kaggle and many insights were drawn using the data to help the online store to make imporatant buisness descisions and to retain regular customers.
 Few Insights drawn:
