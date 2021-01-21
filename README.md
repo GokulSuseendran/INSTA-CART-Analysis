@@ -4,6 +4,7 @@ PROBLEM STATEMENT:
 
 DATA DESCRIPTION: 
   Dataset obtained from Kaggle and it contains 32692420 rows and 13 columns. It contains the transactions of online grocery store. 
+
 Many insights were drawn using the data to help the online store to make imporatant buisness descisions, make profits and to retain their regular customers.
 
 Few Insights drawn:
