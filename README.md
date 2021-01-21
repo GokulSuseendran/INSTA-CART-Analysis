@@ -1,5 +1,5 @@
 # INSTA-CART-Analysis
-PROBLEM STATEMENT:
+OBJECTIVE:
   Project pertaining to Market Basket Analysis for an online grocery delivery application using Apriori algorithm and association rules for 80 million transactions using R software.
 
 DATA DESCRIPTION: 
